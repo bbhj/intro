@@ -15,12 +15,13 @@ Trello: [https://trello.com/b/Yyb1ovjP/bbhj](https://trello.com/b/Yyb1ovjP/bbhj)
 [宝贝回家论坛](https://bbs.baobeihuijia.com) 站点维护
 
 [宝贝回家 小程序开发](/images/mina/8.jpg)
+
 ![宝贝回家小程序](/images/mina/8.jpg)
 
 客服机器人
 
 
 
-邮件 &lt;Dean dean@airdb.com&gt;  或点击 [Issues](github.com/bbhj/intro/issues) 提问。
+邮件 &lt;Dean dean@airdb.com&gt;  或点击 [Issues](https://github.com/bbhj/intro/issues) 提问。
 
 see [contributing](03_how_to_github_pull_request.md).
