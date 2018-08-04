@@ -1,7 +1,7 @@
 site_name: 宝贝回家
 theme: readthedocs
 pages:
-- Overview: index.md
+- 概览: index.md
 - 技术公益: lovelytech.md
 - 宝贝回家项目介绍: baby.md
 - 宝贝回家小程序: mina.md
