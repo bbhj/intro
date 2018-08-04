@@ -18,9 +18,9 @@
 ##小程序开发##
 
 Github 代码地址：
-(https://github.com/bbhj/mina)[https://github.com/bbhj/mina]
+[https://github.com/bbhj/mina](https://github.com/bbhj/mina)
 
 MpVue 入门: 
-(http://mpvue.com)[http://mpvue.com]
+[http://mpvue.com](http://mpvue.com)
 
-(小程序开发文档)[https://developers.weixin.qq.com/miniprogram/dev/index.html?t=18080311]
+[小程序开发文档](https://developers.weixin.qq.com/miniprogram/dev/index.html?t=18080311)
