@@ -1,0 +1,11 @@
+User-agent: Googlebot
+Allow: *
+
+User-agent: *
+Disallow: /
+
+User-agent: Baiduspider
+Disallow: /
+
+User-agent: baiduspider
+Disallow: /

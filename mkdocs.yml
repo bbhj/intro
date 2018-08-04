@@ -1,0 +1,9 @@
+site_name: 宝贝回家
+theme: readthedocs
+pages:
+- Overview: index.md
+- 技术公益: 01_love-tech.md
+- 宝贝回家: 02_baby.md
+- 公益:  forfun.md
+- 文档贡献: 03_how_to_github_pull_request.md
+- 文档排版: 04_chinese_copywrite_guidelines.md
