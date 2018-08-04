@@ -15,6 +15,7 @@ Trello: [https://trello.com/b/Yyb1ovjP/bbhj](https://trello.com/b/Yyb1ovjP/bbhj)
 [宝贝回家论坛](https://bbs.baobeihuijia.com) 站点维护
 
 [宝贝回家 小程序开发](/images/mina/8.jpg)
+![宝贝回家小程序](/images/mina/8.jpg)
 
 客服机器人
 
