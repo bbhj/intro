@@ -2,6 +2,8 @@
 
 mina-robot 是小程序客服机器人，主要负责智能问答、智能推荐等。后台采用 Golang 进行开发，使用了 [Beego](https://github.com/astaxie/beego) Web 开发框架。
 
+入口是小程序任意页面的 "进入客服会话" 按键。
+
 
 ##目标##
 
