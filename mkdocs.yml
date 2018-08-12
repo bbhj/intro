@@ -1,4 +1,5 @@
 site_name: 宝贝回家
+
 theme: readthedocs
 pages:
 - 概览: index.md
@@ -9,5 +10,6 @@ pages:
 - 宝贝回家小程序后台: mina-backend.md
 - 小程序客服机器人: mina-robot.md
 - 项目周报: weekly/index.md
+- 项目周报: weekly/2018w32.md
 - 文档贡献: 03_how_to_github_pull_request.md
 - 文档排版: 04_chinese_copywrite_guidelines.md
