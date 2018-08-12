@@ -2,14 +2,14 @@ site_name: 宝贝回家
 
 theme: readthedocs
 pages:
-- 概览: index.md
-- 技术公益: lovelytech.md
-- 宝贝回家项目介绍: baby.md
-- 宝贝回家论坛: bbs.md
-- 宝贝回家小程序: mina.md
-- 宝贝回家小程序后台: mina-backend.md
-- 小程序客服机器人: mina-robot.md
+- ['index.md', '概览']
+- ['lovelytech.md', '技术公益']
+- ['baby.md', '宝贝回家项目介绍']
+- ['bbs.md', '宝贝回家论坛']
+- ['mina.md', '宝贝回家小程序']
+- ['mina-backend.md', '宝贝回家小程序后台']
+- ['mina-robot.md', '小程序客服机器人']
 - ['weekly/index.md', '项目周报', '2018年周报预览']
 - ['weekly/2018w32.md', '项目周报', 'week 32']
-- 文档贡献: 03_how_to_github_pull_request.md
-- 文档排版: 04_chinese_copywrite_guidelines.md
+- ['03_how_to_github_pull_request.md', '文档贡献']
+- ['04_chinese_copywrite_guidelines.md', '文档排版']
