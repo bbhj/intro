@@ -1,4 +1,5 @@
 site_name: 宝贝回家
+repo_url: https://github.com/bbhj/intor
 
 theme: readthedocs
 pages:
