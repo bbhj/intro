@@ -9,6 +9,7 @@ pages:
 - 宝贝回家小程序: mina.md
 - 宝贝回家小程序后台: mina-backend.md
 - 小程序客服机器人: mina-robot.md
-- 项目周报: weekly/index.md
+- ['weekly/index.md', '项目周报', '2018年周报预览']
+- ['weekly/2018w32.md', '项目周报', 'week 32']
 - 文档贡献: 03_how_to_github_pull_request.md
 - 文档排版: 04_chinese_copywrite_guidelines.md
