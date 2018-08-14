@@ -13,6 +13,7 @@ pages:
 - 宝贝回家小程序后台: mina-backend.md
 - 小程序客服机器人: mina-robot.md
 - 项目周报: 
+        - 'ChangeLog': weekly/changlog.md
         - '周报预览': weekly/index.md
         - 'week 32': weekly/2018w32.md
 - 文档贡献: 03_how_to_github_pull_request.md
