@@ -54,6 +54,12 @@ https://shipengliang.com/program-code/discuz-文章标题省略号如何去除.h
 
 http://www.discuz.net/forum.php?mod=viewthread&tid=3422733
 
+	``` else if(mb_strlen(theform.subject.value) > 120)```
+static/js/forum_post.js
+static/js/forum.js
+
+
+
 ##6. 头像问题##
 
 source/function/function_core.php
@@ -70,3 +76,7 @@ $file = $ucenterurl.'/data/avatar/'.$dir1.'/'.$dir2.'/'.$dir3.'/'.substr($uid, -
 
 $file = $ucenterurl_s.'/data/avatar/'.$dir1.'/'.$dir2.'/'.$dir3.'/'.substr($uid, -2).($real ? '_real' : '').'_avatar_'.$size.'.jpg';
 
+
+##7. 用户注册未定操作##
+
+针对重新创建过表的情况，建议检查 pre_ucenter_member 表，确保 uid 默认值不为 0， 且自增涨。
