@@ -42,3 +42,31 @@
 favicon.ico: 一定保证论坛文件正确，这个文件，不走 CDN
 
 其他图片： 大多数是使用 CDN 的， 需要保证 CDN 上图片正确。
+
+
+##5. Discuz! 文章标题省略号##
+
+source/include/portalcp/portalcp_article.php
+
+$_POST['title'] = getstr(trim($_POST['title'])
+
+https://shipengliang.com/program-code/discuz-文章标题省略号如何去除.html
+
+http://www.discuz.net/forum.php?mod=viewthread&tid=3422733
+
+##6. 头像问题##
+
+source/function/function_core.php
+
+$ucenterurl = empty($ucenterurl) ? $_G['setting']['ucenterurl'] : $ucenterurl;
+
+下方增加
+
+$ucenterurl_s = '//avatar.baobeihuijia.com/uc_server';
+
+$file = $ucenterurl.'/data/avatar/'.$dir1.'/'.$dir2.'/'.$dir3.'/'.substr($uid, -2).($real ? '_real' : '').'_avatar_'.$size.'.jpg';
+
+替换为
+
+$file = $ucenterurl_s.'/data/avatar/'.$dir1.'/'.$dir2.'/'.$dir3.'/'.substr($uid, -2).($real ? '_real' : '').'_avatar_'.$size.'.jpg';
+
