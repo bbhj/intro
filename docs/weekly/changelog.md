@@ -80,3 +80,10 @@ $file = $ucenterurl_s.'/data/avatar/'.$dir1.'/'.$dir2.'/'.$dir3.'/'.substr($uid,
 ##7. 用户注册未定操作##
 
 针对重新创建过表的情况，建议检查 pre_ucenter_member 表，确保 uid 默认值不为 0， 且自增涨。
+
+
+##8. UC 通知失败##
+
+在默认 UC 正常通信的情况下，且使用 utf-8 站点时，应该是 xml文件格式是 ISO-8859-1 导致的
+
+修改 uc_client/lib/xml.class.php 查找 2 处 SO-8859-1，并替换成 UTF-8。
