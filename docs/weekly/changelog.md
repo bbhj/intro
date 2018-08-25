@@ -87,3 +87,18 @@ $file = $ucenterurl_s.'/data/avatar/'.$dir1.'/'.$dir2.'/'.$dir3.'/'.substr($uid,
 在默认 UC 正常通信的情况下，且使用 utf-8 站点时，应该是 xml文件格式是 ISO-8859-1 导致的
 
 修改 uc_client/lib/xml.class.php 查找 2 处 SO-8859-1，并替换成 UTF-8。
+
+##9. 分类丢失问题##
+
+解决办法：管理中心-> 论坛 ->   版块管理  --> 编辑  --> 其他 --> 主题分类 --> 主题分类启用 --> 提交
+
+##10. 用户存在问题
+
+思路：用户表主要存在 pre_common_member(关联贴子等论坛信息) 和 pre_ucenter_members (uc中心), 通过一处信息修复另外一处理即可。 uc 中用户丢失，修复时不会影响论坛贴子。
+
+注意： 修复 pre_common_member 有可能会影响论坛贴子, 或修复不彻底问题。
+
+本次操作两名用户：婧薇(pre_ucenter_members 数据丢失)，水质的流苏(pre_common_member 数据丢失) 
+insert into pre_ucenter_members(uid,username,password,email,regip,regdate,salt) values() ;
+
+insert into  pre_common_member(uid, email, username, password, regdate ) values() ; 
