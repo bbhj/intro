@@ -19,5 +19,6 @@ pages:
         - 'week 34': weekly/2018w34.md
         - 'week 35': weekly/2018w35.md
         - 'week 41': weekly/2018w41.md
+        - 'week 42': weekly/2018w42.md
 - 文档贡献: 03_how_to_github_pull_request.md
 - 文档排版: 04_chinese_copywrite_guidelines.md
