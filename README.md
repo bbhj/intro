@@ -1,4 +1,4 @@
-Airdb Docs
+The Tech Project Introduce Docs
 ========================
 
 [![Build Status](https://travis-ci.org/airdb/docs.svg?branch=master)](https://travis-ci.org/airdb/docs.svg?branch=master)
@@ -7,6 +7,13 @@ Airdb Docs
 Into
 -------
 
-airdb docs 更多的是偏向技术的实践, 技术产品，学习文档等。
+Please visit [Here](https://bbhj.airdb.io]
 
-Just for fun
+## Contribution
+
+Please make sure to read the [Contributing Guide](https://bbhj.airdb.io/CONTRIBUTING.md) before making a pull request. 
+
+Thank you to all the people who already contributed to Mina!
+
+<a href="https://github.com/bbhj/intro/graphs/contributors"><img src="https://opencollective.com/bbhj/contributors.svg?width=890" /></a>
+
