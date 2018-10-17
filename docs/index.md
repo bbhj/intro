@@ -19,7 +19,7 @@ Trello: [https://trello.com/b/Yyb1ovjP/bbhj](https://trello.com/b/Yyb1ovjP/bbhj)
 ![宝贝回家小程序](/images/mina/8.jpg)
 宝贝回家小程序
 
-![宝贝回家小程序-体验版](/images/mina/dev.jpg =260x260)
+![宝贝回家小程序-体验版](/images/mina/dev-260.jpg)
 宝贝回家小程序-体验版
 
 客服机器人
