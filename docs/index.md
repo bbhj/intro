@@ -8,7 +8,7 @@
 
 ##常用地址##
 
-Github: [https://github.com/bbhj](https://github.com/bbhj)
+小程序开源地址: [https://github.com/bbhj/mina](https://github.com/bbhj/mina)
 
 Trello: [https://trello.com/b/Yyb1ovjP/bbhj](https://trello.com/b/Yyb1ovjP/bbhj)
 
@@ -23,6 +23,11 @@ Trello: [https://trello.com/b/Yyb1ovjP/bbhj](https://trello.com/b/Yyb1ovjP/bbhj)
 
 ![宝贝回家小程序-体验版](/images/mina/trial.jpg)
 宝贝回家小程序-体验版
+
+
+![宝贝回家小程序](/images/mina/8.jpg)
+![宝贝回家小程序-体验版](/images/mina/trial.jpg)
+11 22
 
 客服机器人
 
