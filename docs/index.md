@@ -18,19 +18,11 @@ Trello: [https://trello.com/b/Yyb1ovjP/bbhj](https://trello.com/b/Yyb1ovjP/bbhj)
 
 ![宝贝回家小程序](/images/mina/8.jpg)
 
-
 [小程序](/images/mina/8.jpg)
 
-
 ![宝贝回家小程序-体验版](/images/mina/trial.jpg)
-
 
 [宝贝回家小程序-体验版](/images/mina/trial.jpg)
-
-
-![宝贝回家小程序](/images/mina/8.jpg)
-![宝贝回家小程序-体验版](/images/mina/trial.jpg)
-11 22
 
 客服机器人
 
