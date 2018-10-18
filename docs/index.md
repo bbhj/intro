@@ -8,21 +8,24 @@
 
 ##常用地址##
 
-小程序开源地址: [https://github.com/bbhj/mina](https://github.com/bbhj/mina)
+小程序开源地址: [https://github.com/bbhj/mina](https://github.com/bbhj/mina)  star 一下吧 :)
 
 Trello: [https://trello.com/b/Yyb1ovjP/bbhj](https://trello.com/b/Yyb1ovjP/bbhj)
 
 ##当前正在做的事##
 
-[宝贝回家论坛](https://bbs.baobeihuijia.com) 站点维护
-
-[宝贝回家 小程序开发](/images/mina/8.jpg)
+[宝贝回家论坛维护](https://bbs.baobeihuijia.com)
 
 ![宝贝回家小程序](/images/mina/8.jpg)
-宝贝回家小程序
+
+
+[小程序](/images/mina/8.jpg)
+
 
 ![宝贝回家小程序-体验版](/images/mina/trial.jpg)
-宝贝回家小程序-体验版
+
+
+[宝贝回家小程序-体验版](/images/mina/trial.jpg)
 
 
 ![宝贝回家小程序](/images/mina/8.jpg)
