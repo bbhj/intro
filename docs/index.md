@@ -8,9 +8,9 @@
 
 ##常用地址##
 
-小程序开源地址: [https://github.com/bbhj/mina](https://github.com/bbhj/mina)  star 一下吧 :)
+小程序开源地址: [https://github.com/bbhj/mina](https://github.com/bbhj/mina)   给个小星星，star 一下吧 :)
 
-Trello: [https://trello.com/b/Yyb1ovjP/bbhj](https://trello.com/b/Yyb1ovjP/bbhj)
+[项目当前进度](https://github.com/bbhj/intro/projects/1)
 
 ##当前正在做的事##
 

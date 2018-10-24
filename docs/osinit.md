@@ -26,6 +26,12 @@
 
 ###3. PHP7 安装###
 
+	yum install epel-release
+	rpm -Uvh https://mirror.webtatic.com/yum/el7/webtatic-release.rpm
+	yum install php72w-fpm
+
+	/etc/php-fpm.d/www.conf
+
 ###4. 设置安全组策略###
 
 	1. 默认安全组放通全部端口
@@ -33,3 +39,4 @@
 	2. ssh http https icmp
 
 	3. default
+###5. 挂载cosfs###
