@@ -5,7 +5,7 @@
 
 社会层：积极承担社会责任，创造社会价值，赢得社会尊敬。
 
-[项目当前进度](https://github.com/bbhj/intro/projects/1)
+[项目进度](https://github.com/bbhj/intro/projects/1)
 
 ##当前正在做的事##
 
@@ -13,11 +13,11 @@
 
 [宝贝回家论坛](https://bbs.baobeihuijia.com)
 
-[小程序](/images/mina/8.jpg)
+![小程序](/images/mina/8.jpg)
 
 ![宝贝回家小程序-体验版](/images/mina/trial.jpg)
 
-宝贝回家小程序-体验版
+上图为 宝贝回家小程序-体验版
 
 
 邮件 &lt;Dean dean@airdb.com&gt;  或点击 [Issues](https://github.com/bbhj/intro/issues) 提问。

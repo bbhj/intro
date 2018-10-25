@@ -14,7 +14,7 @@ pages:
 - 小程序客服机器人: mina-robot.md
 - 项目周报: 
         - 'ChangeLog': weekly/changelog.md
-        - '周报预览': weekly/index.md
+        - '项目进度预览': weekly/index.md
         - 'week 32': weekly/2018w32.md
         - 'week 34': weekly/2018w34.md
         - 'week 35': weekly/2018w35.md
