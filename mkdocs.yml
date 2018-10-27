@@ -8,7 +8,6 @@ pages:
 - 概览: index.md
 - 技术公益: lovelytech.md
 - 宝贝回家项目介绍: baby.md
-- 宝贝回家论坛: bbs.md
 - 宝贝回家小程序: mina.md
 - 宝贝回家小程序后台: mina-backend.md
 - 小程序客服机器人: mina-robot.md
@@ -22,5 +21,7 @@ pages:
         - 'week 42': weekly/2018w42.md
         - 'week 43': weekly/2018w43.md
 - 云主机初始化: osinit.md
+- 宝贝回家论坛: bbs.md
+- 论坛维护FAQ: faq.md
 - 文档贡献: 03_how_to_github_pull_request.md
 - 文档排版: 04_chinese_copywrite_guidelines.md
