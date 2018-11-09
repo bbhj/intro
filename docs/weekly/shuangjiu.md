@@ -1,6 +1,6 @@
 [shuangjiu 学习内容](https://github.com/99MyCql)
 
-##2018 week43
+## 2018 week43
 
 ### 一、本周目标
 
@@ -25,7 +25,7 @@
 - 看完go语言的基础文档，了解docker。在不使用beego框架的情况下，尝试用go部署一个后端应用。
 
 
-##2018 week44
+## 2018 week44
 
 ### 一、学习目标
 
