@@ -102,3 +102,6 @@ $file = $ucenterurl_s.'/data/avatar/'.$dir1.'/'.$dir2.'/'.$dir3.'/'.substr($uid,
 insert into pre_ucenter_members(uid,username,password,email,regip,regdate,salt) values() ;
 
 insert into  pre_common_member(uid, email, username, password, regdate ) values() ; 
+
+
+evazhu 用户改名为 安吉寒枫
