@@ -1,3 +1,7 @@
+## 表结构
+
+[Discuz!X/数据库字典](http://wiki.blueidea.com/index.php?title=Discuz!X/数据库字典)
+
 ##1. UC通信息不成功##
 
 相关文件：config/config_ucenter.php, uc_server/data/config.inc.php
